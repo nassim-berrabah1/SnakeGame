@@ -29,7 +29,7 @@ Réalisé en solo
 python snake.py
 ```
 
-> Nécessite Python 3.x. Aucune dépendance externe.
+> Nécessite Python 3. Aucune dépendance externe.
 
 ---
 
